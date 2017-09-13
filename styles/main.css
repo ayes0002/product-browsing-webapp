@@ -1,0 +1,31 @@
+.multCategories{
+    display: block;
+    width: 50%;
+    float: left;
+}
+
+img {
+    width: 100%;
+    padding: 0.75rem 2.5%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.details {
+    margin: 0 45%;
+}
+
+.multCategory{
+    margin-top: 2rem;
+    display: block;
+    width: 50%;
+    float: left;
+}
+
+.back{
+    float: left;
+    display: block;
+    margin-right: 100%;
+}
